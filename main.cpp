@@ -9,6 +9,7 @@ extern "C"
 }
 using namespace std;
 /*
+hej
 Declare the Lua libraries we wish to use.
 Any libraries used from the lua scripts loaded later must be present here.
 */
